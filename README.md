@@ -46,5 +46,18 @@ The results will be saved in the ```results``` directory.
 ## 📕 Bibtex Citation
 
 ```
-TODO
+@inproceedings{archetti2023deep,
+  title={Deep Survival Analysis for Healthcare: An Empirical Study on Post-Processing Techniques},
+  author={Alberto Archetti and Francesco Stranieri and Matteo Matteucci},
+  booktitle={Proceedings of the 2nd AIxIA Workshop on Artificial Intelligence For Healthcare (HC@AIxIA 2023)},
+  year={2023},
+  pages={99--121},
+  editor={Francesco Calimeri and Mauro Dragoni and Fabio Stella},
+  volume={3578},
+  series={CEUR Workshop Proceedings},
+  address={Rome, Italy},
+  publisher={CEUR-WS.org},
+  url={http://ceur-ws.org/Vol-3578/},
+  date={2023-11-08},
+}
 ```
